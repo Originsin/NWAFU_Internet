@@ -1,2 +1,3 @@
 NWAFU_Internet_connection
 将Js文件加入tampermonkey即可，仅供学习使用。
+记得加右上星标哦！谢谢。
